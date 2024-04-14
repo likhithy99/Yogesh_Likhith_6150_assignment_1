@@ -2,7 +2,7 @@
 <html lang="en">: Root element of the HTML document, specifying the language attribute as English.
 <head>: Contains meta-information about the HTML document, such as character set, viewport settings, and links to external resources.
 <meta charset="UTF-8">: Sets the character encoding to UTF-8.
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: Configures the viewport for responsive design.
+<meta name="viewport" content="width=device-width, infitial-scale=1.0">: Configures the viewport for responsive design.
 <link rel="stylesheet" href="CSS/style.css">: Links to an external CSS stylesheet for styling.
 <link rel="icon" href="image/images.png" type="image/x-icon">: Specifies the favicon (site icon) for the website.
 <title>My Portfolio</title>: Sets the title of the HTML document.
